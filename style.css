@@ -316,6 +316,7 @@ form {
 
 .thanks .button {
     margin-top: 48px; 
+    width: 100%; 
 }
 
 @media screen and (min-width: 800px) {
